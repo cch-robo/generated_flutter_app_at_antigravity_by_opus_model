@@ -22,6 +22,9 @@ https://github.com/FlutterKaigi/conference-handson-2025) のアプリ要件を�
 - 上記２工程で、lib/ 配下の全ソースが生成された。
 - ユニットテストとWidgetテストが作成されなかったので、プロンプト指定して作成させた。
 - テストコード中に Analyze 指摘が含まれていたので、プロント指定して修正させた。
+- [docs/artifact/implementation_plan.md](docs/artifact/implementation_plan.md) ⇒ 実装計画書
+- [docs/artifact/walkthrough.md](docs/artifact/walkthrough.md) ⇒ 実装完了書
+- [チャット・プロンプト履歴](docs/artifact/workflow_description.md)
 
 ## アプリ画像
 ![読書中書籍なし](docs/images/reading_books_empty.png)
