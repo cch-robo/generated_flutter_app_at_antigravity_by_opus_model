@@ -1,6 +1,9 @@
 # reading_progress_app
 Antigravity を使った Flutter アプリ開発のサンプルプロジェクト。(Opus Model)
 
+_このプロジェクトは、[FlutterKaigi 2025 ハンズオンリポジトリ](
+https://github.com/FlutterKaigi/conference-handson-2025) のアプリ要件を参考にしています。_
+
 ## 開発手順
 
 ### 1. アプリ要件定義書を作成する
@@ -13,7 +16,7 @@ Antigravity を使った Flutter アプリ開発のサンプルプロジェク�
 
 ### 2. Flutter アプリプロジェクト作成
 - Agent モデルを Opas 4.5 に指定する。
-- create-project workflow を実行してプロジェクトを作成。
+- create-project workflow を実行して、[アプリ要件定義書](docs/specification/App-Specification.md)を参考にプロジェクトを作成。
 
 ### 3. 補足
 - 上記２工程で、lib/ 配下の全ソースが生成された。
