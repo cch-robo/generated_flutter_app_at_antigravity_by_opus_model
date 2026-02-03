@@ -1,5 +1,5 @@
 # reading_progress_app
-Antigravity を使った Flutter アプリ開発のサンプルプロジェクト。
+Antigravity を使った Flutter アプリ開発のサンプルプロジェクト。(Opus Model)
 
 ## 開発手順
 1. アプリ要件定義書を作成する
@@ -14,3 +14,12 @@ Antigravity を使った Flutter アプリ開発のサンプルプロジェク�
 3. 補足
   - ユニットテストとWidgetテストが作成されなかったので、プロンプト指定して作成させた。
   - テストコード中に Analyze 指摘が含まれていたので、プロント指定して修正させた。
+
+## アプリ画像
+![読書中書籍なし](docs/images/reading_books_empty.png)
+![読書書籍の追加](docs/images/add_read_book.png)
+![読書中書籍あり①](docs/images/reading_books_list_1.png)
+![読書進捗 50%達成](docs/images/readed_50.png)
+![読書中書籍あり②](docs/images/reading_books_list_2.png)
+![読書進捗グラフ画面](docs/images/graph_screen.png)
+![読書進捗 100%達成](docs/images/readed_100.png)
