@@ -1,4 +1,4 @@
-/// 書籍一覧プロバイダーのユニットテスト
+// 書籍一覧プロバイダーのユニットテスト
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:reading_progress_app/application/providers/book_list_provider.dart';

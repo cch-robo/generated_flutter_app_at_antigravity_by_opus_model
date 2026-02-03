@@ -1,4 +1,4 @@
-/// 読書進捗値オブジェクトのユニットテスト
+// 読書進捗値オブジェクトのユニットテスト
 import 'package:flutter_test/flutter_test.dart';
 import 'package:reading_progress_app/domain/value_objects/reading_progress.dart';
 

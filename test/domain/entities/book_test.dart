@@ -1,4 +1,4 @@
-/// 書籍エンティティのユニットテスト
+// 書籍エンティティのユニットテスト
 import 'package:flutter_test/flutter_test.dart';
 import 'package:reading_progress_app/domain/entities/book.dart';
 import 'package:reading_progress_app/domain/value_objects/book_id.dart';
